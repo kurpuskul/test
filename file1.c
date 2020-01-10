@@ -1,5 +1,8 @@
 int main(){
  write("Hello, world!");
 
- return 0;
+
+ int i;
+ i = 0;
+ return i;
 }
