@@ -1,7 +1,8 @@
+int printf(const char *format, ...);
 int main(){
  char *s = "Hello";
-void  write(char *);
-write(s);
+
+ printf("Hello world!");
 
 
  int i;
