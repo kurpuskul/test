@@ -1,5 +1,7 @@
 int main(){
- write("Hello, world!");
+ char *s = "Hello";
+void  write(char *);
+write(s);
 
 
  int i;
