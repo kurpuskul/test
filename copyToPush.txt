@@ -6,3 +6,4 @@ The result is:
 	- commited;
 	- pushed without any requests for username or password;
 	- Hub and the creator repositories got the file!
+	- some addings from Hub editor
