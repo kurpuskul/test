@@ -1,0 +1,8 @@
+Try to push from another local repository
+Is it because of the same user on local machine got the project?
+The result is:
+	- new file created by user on local machine but from another directory cloned from Hub;
+	- added to git;
+	- commited;
+	- pushed without any requests for username or password;
+	- Hub and the creator repositories got the file!
